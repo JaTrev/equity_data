@@ -1,0 +1,30 @@
+# --- Python & Venv ---
+.venv/
+.env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Local Secrets & Config ---
+.env
+.env.*
+secrets.json
+*.key
+
+# --- Research & Data ---
+# Ignore all data files (never commit data to repo)
+data/
+*.csv
+*.parquet
+*.log
+.ipynb_checkpoints/
+
+# --- Mac / System ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Build Artifacts ---
+dist/
+build/
+*.egg-info/

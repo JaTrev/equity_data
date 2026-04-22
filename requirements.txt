@@ -1,0 +1,17 @@
+psycopg2-binary==2.9.9
+
+# --- Exchange & API ---
+ccxt==4.2.14
+
+# --- Research & Utilities ---
+python-dotenv==1.0.1
+ipykernel==6.29.0  # Required for VS Code Jupyter Notebooks
+
+
+pandas
+numpy
+dotenv
+python-dotenv
+pyarrow
+seaborn
+tabulate
