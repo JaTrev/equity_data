@@ -17,3 +17,4 @@ seaborn
 tabulate
 scipy
 yfinance
+python-telegram-bot
