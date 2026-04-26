@@ -18,6 +18,7 @@ data/
 *.parquet
 *.log
 .ipynb_checkpoints/
+scripts/
 
 # --- Mac / System ---
 .DS_Store

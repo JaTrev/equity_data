@@ -15,3 +15,5 @@ python-dotenv
 pyarrow
 seaborn
 tabulate
+scipy
+yfinance
