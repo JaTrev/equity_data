@@ -5,30 +5,31 @@ TICKER_MAPPING = {
     "Silber": {"ticker": "SI=F", "currency": "USD"},
     "WTI ÖL": {"ticker": "CL=F", "currency": "USD"},
     
-    # US Equities (USD)
-    "Synopsis Inc.": {"ticker": "SNPS", "currency": "USD"},
-    "Quanta SVCS": {"ticker": "PWR", "currency": "USD"},
-    "Parker - Hannifin": {"ticker": "PH", "currency": "USD"},
-    "Mastercard": {"ticker": "MA", "currency": "USD"},
-    "IDEXX LABS": {"ticker": "IDXX", "currency": "USD"},
-    "LUMENTUM HLDGS": {"ticker": "LITE", "currency": "USD"},
-    "ASML Holding": {"ticker": "ASML", "currency": "USD"}, # US Listing
-    "AUTOZONE INC": {"ticker": "AZO", "currency": "USD"},
-    "Blackrock": {"ticker": "BLK", "currency": "USD"},
-    "COMFORT SYST": {"ticker": "FIX", "currency": "USD"},
-    "CATERPILLAR": {"ticker": "CAT", "currency": "USD"},
-    "KLA CORP": {"ticker": "KLAC", "currency": "USD"},
-    "INTUITIVE SURGIC": {"ticker": "ISRG", "currency": "USD"},
-    "ASTERA LABS": {"ticker": "ALAB", "currency": "USD"},
-    "TESLA": {"ticker": "TSLA", "currency": "USD"},
-    "MICRON TECHN": {"ticker": "MU", "currency": "USD"},
-    "MERCADOLIBRE": {"ticker": "MELI", "currency": "USD"},
-    "COINBASE": {"ticker": "COIN", "currency": "USD"},
-    "SEAGATE": {"ticker": "STX", "currency": "USD"},
-    "Applied Materials": {"ticker": "AMAT", "currency": "USD"},
-    "LAM RESEARCH": {"ticker": "LRCX", "currency": "USD"},
-    "Strategy Inc": {"ticker": "MSTR", "currency": "USD"},
-    "Goldman Sachs": {"ticker": "GS", "currency": "USD"},
+    # US Equities 
+    "Synopsys": {"ticker": "SYP.DE", "currency": "EUR"},
+    "Quanta Services": {"ticker": "QAA.MU", "currency": "EUR"},
+    "Parker Hannifin": {"ticker": "PAR.DE", "currency": "EUR"},
+    "Mastercard": {"ticker": "M4I0.F", "currency": "EUR"},
+    "IDEXX Labs": {"ticker": "IX1.F", "currency": "EUR"},
+    "Lumentum Holdings": {"ticker": "LU2.MU", "currency": "EUR"},
+    "ASML Holding": {"ticker": "ASME.MU", "currency": "EUR"},
+    "AutoZone": {"ticker": "AZ5.F", "currency": "EUR"},
+    "Blackrock": {"ticker": "UU2.DE", "currency": "EUR"},
+    "Comfort Systems": {"ticker": "9CF.MU", "currency": "EUR"},
+    "Caterpillar": {"ticker": "CAT.F", "currency": "EUR"},
+    "KLA-Tensor": {"ticker": "KLA.DE", "currency": "EUR"},
+    "Intuitive Surgical": {"ticker": "IUI1.F", "currency": "EUR"},
+    "Astera Labs": {"ticker": "64B.MU", "currency": "EUR"},
+    "Tesla": {"ticker": "TL0.DE", "currency": "EUR"},
+    "Micron Technology": {"ticker": "MTE.DE", "currency": "EUR"},
+    "MercadoLibre": {"ticker": "MLB1.DE", "currency": "EUR"},
+    "Coinbase Global": {"ticker": "1QZ.DE", "currency": "EUR"},
+    "Seagate Technology Holdings": {"ticker": "847.F", "currency": "EUR"},
+    "Applied Materials": {"ticker": "AP2.DE", "currency": "EUR"},
+    "Lam Research Corp": {"ticker": "LAR0.DE", "currency": "EUR"},
+    "Strategy Inc": {"ticker": "MIGA.F", "currency": "EUR"},
+    "Goldman Sachs": {"ticker": "GOS.DE", "currency": "EUR"},
+    "Monolithic Power Systems": {"ticker": "NQG.MU", "currency": "EUR"},
 
     # European Equities (EUR)
     "Rheinmetall": {"ticker": "RHM.DE", "currency": "EUR"},
@@ -39,7 +40,10 @@ TICKER_MAPPING = {
     "Siemens": {"ticker": "SIE.DE", "currency": "EUR"},
     "Siemens Energy": {"ticker": "ENR.DE", "currency": "EUR"},
 
-    # Other Global Exchanges
-    "LONZA GROUP": {"ticker": "LONN.SW", "currency": "CHF"},
-    "SK HYNIX": {"ticker": "000660.KS", "currency": "KRW"}
+    "Lonza Group": {"ticker": "LO3A.F", "currency": "EUR"},
+    "SK hynix": {"ticker": "HY9H.F", "currency": "EUR"},
+    
+    "Fair Isaac": {"ticker": "FRI.F", "currency": "EUR"},
+    "EMCOR Group": {"ticker": "EM4.F", "currency": "EUR"}
+    
 }
